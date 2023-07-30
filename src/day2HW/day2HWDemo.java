@@ -10,4 +10,8 @@ public class day2HWDemo {
 	public void getInfo() {
 		System.out.println("Homework is easy...");
 	}
+	
+	public void getData() {
+		System.out.println("Homework is good practice...");
+	}
 }
