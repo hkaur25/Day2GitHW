@@ -6,4 +6,8 @@ public class day2HWDemo {
 		System.out.println("Doing homework....");
 	}
 
+	
+	public void getInfo() {
+		System.out.println("Homework is easy...");
+	}
 }
