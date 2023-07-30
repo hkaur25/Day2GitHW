@@ -21,7 +21,7 @@ public class day2HWDemo {
 	}
 
 	//added from git
-	public void getInfo(){
-		System.out.println("Printing from GitHub")
+	public void getInformation(){
+		System.out.println("Printing from GitHub");
 			}
 }
