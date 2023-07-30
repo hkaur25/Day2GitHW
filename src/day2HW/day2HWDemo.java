@@ -14,4 +14,9 @@ public class day2HWDemo {
 	public void getData() {
 		System.out.println("Homework is good practice...");
 	}
+
+	//added from github
+	public void add(int a + int b){
+		System.out.println(a + b);
+	}
 }
