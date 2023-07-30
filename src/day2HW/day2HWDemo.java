@@ -19,4 +19,9 @@ public class day2HWDemo {
 	public void add(int a, int b){
 		System.out.println(a + b);
 	}
+
+	//added from git
+	public void getInfo(){
+		System.out.println("Printing from GitHub")
+			}
 }
